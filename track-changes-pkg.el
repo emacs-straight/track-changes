@@ -1,2 +1,2 @@
 ;; Generated package description from track-changes.el  -*- mode: lisp-data; no-byte-compile: t -*-
-(define-package "track-changes" "1.2.0.20250222.233822" "API to react to buffer modifications" '((emacs "24")) :commit "4f89aa3d8285e0d94c8203be60b134a83abf82f7" :url "https://elpa.gnu.org/packages/track-changes.html" :authors '(("Stefan Monnier" . "monnier@iro.umontreal.ca")) :maintainer '("Stefan Monnier" . "monnier@iro.umontreal.ca"))
+(define-package "track-changes" "1.3.0.20250310.154833" "API to react to buffer modifications" '((emacs "24")) :commit "4980089960ab467ad00fb2b3369b26f477cb0186" :url "https://elpa.gnu.org/packages/track-changes.html" :authors '(("Stefan Monnier" . "monnier@iro.umontreal.ca")) :maintainer '("Stefan Monnier" . "monnier@iro.umontreal.ca"))
